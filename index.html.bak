@@ -5,6 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 	<meta name="description" content="" />
     <meta name="author" content="" />
+	<meta property="og:image"
+	content="assets/img/bg-masthead.jpg"/>
+	<meta property="og:image_width" content="200" />
+	<meta property="og:image_height" content="200" />
+	<meta property="og:image:type" content="image.jpeg" />
     <title>What Should We Eat?</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
@@ -109,7 +114,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="assets/img/portfolio/fullsize/kyung.jpg">
+                    <a class="portfolio-box" href="http://s2dding.dothome.co.kr/kyung.html">
                         <img class="img-fluid" src="assets/img/portfolio/thumbnails/kyung.jpg." alt="" />
                         <div class="portfolio-box-caption">
                             <div class="project-category text-white-50">Konkuk Univ.</div>
@@ -127,7 +132,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="assets/img/portfolio/fullsize/hoya.jpg">
+                    <a class="portfolio-box" href="http://s2dding.dothome.co.kr/hoya.html">
                         <img class="img-fluid" src="assets/img/portfolio/thumbnails/hoya.jpg" alt="" />
                         <div class="portfolio-box-caption p-3">
                             <div class="project-category text-white-50">Konkuk Univ.</div>
@@ -189,7 +194,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="assets/img/portfolio/fullsize/mes.jpg">
+                    <a class="portfolio-box" href="http://s2dding.dothome.co.kr/mesi.html">
                         <img class="img-fluid" src="assets/img/portfolio/thumbnails/mes.jpg" alt="" />
                         <div class="portfolio-box-caption">
                             <div class="project-category text-white-50">SOLO</div>
